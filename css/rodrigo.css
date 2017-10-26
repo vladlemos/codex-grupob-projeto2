@@ -1,0 +1,46 @@
+
+
+html, body {
+  height: 100vh;
+  width: 100vw;
+}
+
+body {
+  box-sizing: border-box;
+  margin: 0; 
+  padding: 0;
+
+}
+
+.rodrigo-header{
+	display: block;
+	padding-left: 5%;
+	background: linear-gradient(  rgb(62,88,104),rgb(54,68,77));
+	width: 100%;
+	box-sizing: border-box;
+	
+}
+.rodrigo-aside{
+	border: 1px solid grey;
+	display: inline-block;
+	background: rgb(239,247,250); 
+	
+
+}
+
+.rodrigo-aside h4{	
+	margin: 0;
+	padding: 1em;
+	width: 100%;
+	box-sizing: border-box;
+	background: linear-gradient(  rgb(245,246,248),rgb(216,229,237));
+}
+.rodrigo-aside li{
+	padding-right:  0.5em;
+
+
+}
+.rodrigo-aside a{
+	text-decoration: none;
+
+}
